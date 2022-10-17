@@ -1,8 +1,8 @@
 # fragments_home_work
 1. Создать проект и реализовать подобный дизайн на фрагментах (можно добавлять любой вид спорта, который придет в голову, главное чтобы список мог скролиться на устройствах с маленькими экранами):
 
-![Screenshot 2022-10-17 at 15.14.56.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0d3479f6-b57c-48fe-b69f-d817832e3581/Screenshot_2022-10-17_at_15.14.56.png)
+![](screenshots/Screenshot 2022-10-17 at 15.14.56.webp)
 
 2. Добавить поддержку планшетов, чтобы приложение показывало детальную информацию на экране рядом со списком элементов:
 
-![Screenshot 2022-10-17 at 15.17.00.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1fdc0f60-d8b8-40a2-8f66-bc13ef31cfb0/Screenshot_2022-10-17_at_15.17.00.png)
+![](screenshots/Screenshot 2022-10-17 at 15.17.00.webp)
